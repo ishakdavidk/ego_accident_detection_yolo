@@ -14,7 +14,7 @@ Real-time traffic accident detection system trained with YOLOv11 and deployed on
 
 ---
 
-### Edge deployment on Radxa CM5 — live camera + accident video on screen
+### Edge deployment on Radxa CM5 - live camera + accident video on screen
 
 These clips were recorded directly from the Radxa CM5 deployment. A Radxa Camera 4K (IMX415, CSI) captured a screen playing accident footage while the RKNN-converted model ran on the NPU in real time.
 
