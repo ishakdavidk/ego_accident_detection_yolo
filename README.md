@@ -1,6 +1,6 @@
 # Accident Detection with YOLOv11
 
-Real-time traffic accident detection system trained with YOLOv11 and deployed on edge hardware (Radxa CM5 / NVIDIA Jetson). Detects accidents in dashcam footage with a temporal confidence buffer and cooldown mechanism to reduce false positives.
+Real-time **ego-accident detection** system trained with YOLOv11 and deployed on edge hardware (Radxa CM5 / NVIDIA Jetson). Unlike general accident detection, this system focuses exclusively on detecting accidents involving the **ego vehicle** (the vehicle carrying the camera) using dashcam footage, with a temporal confidence buffer and cooldown mechanism to reduce false positives.
 
 ---
 
@@ -41,7 +41,7 @@ These clips were recorded directly from the Radxa CM5 deployment. A Radxa Camera
 
 ## Overview
 
-This project implements an end-to-end accident detection pipeline:
+This project implements an end-to-end **ego-accident detection** pipeline. The model is trained to detect only accidents that involve the ego vehicle itself — not third-party collisions happening in the background. This makes it suitable for dashcam-based incident recording and insurance use cases.
 
 1. **Train** a YOLOv11s model with a two-stage frozen/unfrozen strategy at 1024x1024 resolution.
 2. **Convert** the trained `.pt` model to ONNX then RKNN format for NPU inference.
