@@ -9,7 +9,7 @@ Real-time traffic accident detection system trained with YOLOv11 and deployed on
 ### Desktop inference on video (`live_detect_pth_save.py`)
 
 <a href="https://youtu.be/gaxsCEG30dc">
-  <img src="https://img.youtube.com/vi/gaxsCEG30dc/maxresdefault.jpg" width="560" alt="Desktop inference demo"/>
+  <img src="https://img.youtube.com/vi/gaxsCEG30dc/maxresdefault.jpg" width="460" alt="Desktop inference demo"/>
 </a>
 
 > Detection running on a recorded dashcam video using the `.pt` model on a Windows PC.
@@ -23,17 +23,17 @@ These clips were recorded directly from the Radxa CM5 deployment. A Radxa Camera
 <table>
   <tr>
     <td align="center">
-      <video src="https://raw.githubusercontent.com/ishakdavidk/accident_detection_yolo/main/upload_video/event.mp4" controls width="360"></video><br/>
+      <video src="https://github.com/user-attachments/assets/a5a52467-52bb-4b06-af5c-aced62aab940" controls width="360"></video><br/>
       <sub>Event 1</sub>
     </td>
     <td align="center">
-      <video src="https://raw.githubusercontent.com/ishakdavidk/accident_detection_yolo/main/upload_video/event1.mp4" controls width="360"></video><br/>
+      <video src="https://github.com/user-attachments/assets/d76877f1-c503-49fc-8070-beccc6b466ed" controls width="360"></video><br/>
       <sub>Event 2</sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <video src="https://raw.githubusercontent.com/ishakdavidk/accident_detection_yolo/main/upload_video/event2.mp4" controls width="360"></video><br/>
+      <video src="https://github.com/user-attachments/assets/ac9a63b3-0cd8-4e36-bad1-7e0b00dd1f82" controls width="360"></video><br/>
       <sub>Event 3</sub>
     </td>
   </tr>
