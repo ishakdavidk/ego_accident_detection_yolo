@@ -23,15 +23,15 @@ These clips were recorded directly from the Radxa CM5 deployment. A Radxa Camera
 <table>
   <tr>
     <td align="center">
-      <video src="https://github.com/user-attachments/assets/29505319-1590-4ab8-8323-91f1ba3e4b45" controls width="220"></video><br/>
+      <video src="https://github.com/user-attachments/assets/0e006198-9f38-4695-b0a2-b756e8d43937" controls width="220"></video><br/>
       <sub>Event 1</sub>
     </td>
     <td align="center">
-      <video src="https://github.com/user-attachments/assets/a7070003-79c8-4fb1-a2c5-574b1be59bb9" controls width="220"></video><br/>
+      <video src="https://github.com/user-attachments/assets/c2aa07bb-4d4b-4df9-a3e9-1234366f7f32" controls width="220"></video><br/>
       <sub>Event 2</sub>
     </td>
     <td align="center">
-      <video src="https://github.com/user-attachments/assets/b1a38c18-9eb6-49dd-99b5-94678d1c4119" controls width="220"></video><br/>
+      <video src="https://github.com/user-attachments/assets/cc91b4d2-36b7-47c7-bfff-1fd8052eca6d" controls width="220"></video><br/>
       <sub>Event 3</sub>
     </td>
   </tr>
